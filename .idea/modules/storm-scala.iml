@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id="storm-scala" external.linked.project.path="$MODULE_DIR$/../.." external.root.project.path="$MODULE_DIR$/../.." external.system.id="SBT" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="false">
+    <output url="file://$MODULE_DIR$/../../target/scala-2.11/classes" />
+    <output-test url="file://$MODULE_DIR$/../../target/scala-2.11/test-classes" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../..">
+      <sourceFolder url="file://$MODULE_DIR$/../../src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../src/main/scala" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../target/scala-2.11/src_managed/main" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../src/test/java" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../src/test/scala" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../target/scala-2.11/src_managed/test" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../src/main/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../../target/scala-2.11/resource_managed/main" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../../src/test/resources" type="java-test-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../../target/scala-2.11/resource_managed/test" type="java-test-resource" />
+      <excludeFolder url="file://$MODULE_DIR$/../../target/resolution-cache" />
+      <excludeFolder url="file://$MODULE_DIR$/../../target/streams" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="SBT: org.scala-lang:scala-library:2.11.6:jar" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="SBT: ch.qos.logback:logback-classic:1.0.13:jar" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="SBT: ch.qos.logback:logback-core:1.0.13:jar" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="SBT: clj-stacktrace:clj-stacktrace:0.2.2:jar" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="SBT: clj-time:clj-time:0.4.1:jar" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="SBT: clout:clout:1.0.1:jar" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="SBT: com.esotericsoftware.kryo:kryo:2.21:jar" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="SBT: com.esotericsoftware.minlog:minlog:1.2:jar" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="SBT: com.esotericsoftware.reflectasm:reflectasm:1.07:shaded:jar" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="SBT: com.googlecode.disruptor:disruptor:2.10.1:jar" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="SBT: com.googlecode.json-simple:json-simple:1.1:jar" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="SBT: com.twitter:carbonite:1.4.0:jar" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="SBT: com.twitter:chill-java:0.3.5:jar" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="SBT: commons-codec:commons-codec:1.6:jar" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="SBT: commons-fileupload:commons-fileupload:1.2.1:jar" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="SBT: commons-io:commons-io:2.4:jar" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="SBT: commons-lang:commons-lang:2.5:jar" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="SBT: commons-logging:commons-logging:1.1.3:jar" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="SBT: compojure:compojure:1.1.3:jar" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="SBT: hiccup:hiccup:0.3.6:jar" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="SBT: javax.servlet:servlet-api:2.5:jar" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="SBT: jline:jline:2.11:jar" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="SBT: joda-time:joda-time:2.0:jar" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="SBT: org.apache.commons:commons-exec:1.1:jar" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="SBT: org.apache.storm:storm-core:0.9.3:jar" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="SBT: org.clojure:clojure:1.5.1:jar" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="SBT: org.clojure:core.incubator:0.1.0:jar" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="SBT: org.clojure:math.numeric-tower:0.0.1:jar" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="SBT: org.clojure:tools.cli:0.2.4:jar" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="SBT: org.clojure:tools.logging:0.2.3:jar" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="SBT: org.clojure:tools.macro:0.1.0:jar" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="SBT: org.jgrapht:jgrapht-core:0.9.0:jar" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="SBT: org.mortbay.jetty:jetty:6.1.26:jar" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="SBT: org.mortbay.jetty:jetty-util:6.1.26:jar" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="SBT: org.mortbay.jetty:servlet-api:2.5-20081211:jar" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="SBT: org.objenesis:objenesis:1.2:jar" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="SBT: org.ow2.asm:asm:4.0:jar" level="project" />
+    <orderEntry type="library" scope="TEST" name="SBT: org.scala-lang:scala-reflect:2.11.2:jar" level="project" />
+    <orderEntry type="library" scope="TEST" name="SBT: org.scala-lang.modules:scala-xml_2.11:1.0.2:jar" level="project" />
+    <orderEntry type="library" scope="TEST" name="SBT: org.scalatest:scalatest_2.11:2.2.4:jar" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="SBT: org.slf4j:log4j-over-slf4j:1.6.6:jar" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="SBT: org.slf4j:slf4j-api:1.7.5:jar" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="SBT: org.yaml:snakeyaml:1.11:jar" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="SBT: ring:ring-core:1.1.5:jar" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="SBT: ring:ring-devel:0.3.11:jar" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="SBT: ring:ring-jetty-adapter:0.3.11:jar" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="SBT: ring:ring-servlet:0.3.11:jar" level="project" />
+  </component>
+</module>
